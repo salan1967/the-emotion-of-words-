@@ -1,5 +1,3 @@
-#Mam Salan Njie
-#lab 03
 
 emotion <- read.csv("/Users/msalan/Downloads/l2emotion-submit.csv")
 head(emotion)
